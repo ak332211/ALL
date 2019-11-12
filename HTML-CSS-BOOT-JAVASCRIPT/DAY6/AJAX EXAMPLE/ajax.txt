@@ -1,0 +1,4 @@
+<h1>THIS IS AN AJAX TEXT FILE</h1>
+
+<p>Ajax file ajax text file</P>
+
